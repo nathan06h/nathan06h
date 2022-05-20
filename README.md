@@ -141,14 +141,6 @@
   &emsp;
 </p>
 <hr></hr>
-# Most Used Languages 📚
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nathan06h&show_icons=true&count_private=true&include_all_commits=true&title_color=f8333c&icon_color=f8333c)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthanh06h&layout=compact&custom_title=I%20use&title_color=f8333c&card_width=445)
-</div>
-</p>
-
 <table style="width:100%;">
   <tr>
       <p align="center"> 
