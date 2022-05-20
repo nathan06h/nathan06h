@@ -8,6 +8,7 @@
           <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="230" height="289"></canvas>
 </span>
 <h1 align="center"> I'm Thanh</h1>
+<hr></hr>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A front-end developer from Vietnam </h3>
 
