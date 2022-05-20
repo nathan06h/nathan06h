@@ -142,16 +142,11 @@
 </p>
 <hr></hr>
 # Most Used Languages 📚
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nathan06h&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
-</p>
-<p align='center'>
-<h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
-</p>
+<div align="center">
 
-<hr>
-<br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nathan06h&show_icons=true&count_private=true&include_all_commits=true&title_color=f8333c&icon_color=f8333c)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthanh06h&layout=compact&custom_title=I%20use&title_color=f8333c&card_width=445)
+</div>
 </p>
 
 <table style="width:100%;">
