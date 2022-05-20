@@ -33,7 +33,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
-# Most Used Languages 📚
+### Most Used Languages 📚
 <br>
 <p align='center'>
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chinmay29hub&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
