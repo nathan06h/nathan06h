@@ -13,7 +13,7 @@
 
 - ✍ I'm a student of: [第一工業大学上野キャンパス University of Technology](https://ueno.daiichi-koudai.ac.jp/) (DIT).
 
-- 🌱 I’m currently learning **MERN Stack.** 
+- 🌱 I’m currently learning **CEH and CHFI** 
 - ⚡ I'm looking for a job as a Front-End in Tokyo 
 ## 📫 How to reach me:
 
