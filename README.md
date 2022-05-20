@@ -140,6 +140,7 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   &emsp;
 </p>
+<hr></hr>
 # Most Used Languages 📚
 <br>
 <p align='center'>
