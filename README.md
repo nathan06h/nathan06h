@@ -7,9 +7,6 @@
 <img data-target="animated-image.replacedImage" alt="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="230" style="display: block; opacity: 1;">
           <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="230" height="289"></canvas>
 </span>
-
-
-
 <h1 align="center"> I'm Thanh</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A front-end developer from Vietnam </h3>
@@ -18,8 +15,6 @@
 
 - 🌱 I’m currently learning **MERN Stack.** 
 - ⚡ I'm looking for a job as a Front-End in Tokyo 
-
-
 ## 📫 How to reach me:
 
 <p align="center">
@@ -33,18 +28,6 @@
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
-### Most Used Languages 📚
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chinmay29hub&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
-</p>
-<p align='center'>
-<h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
-</p>
-
-<hr>
-<br>
-
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -155,7 +138,16 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   &emsp;
 </p>
+## Most Used Languages 📚
+<br>
+<p align='center'>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chinmay29hub&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+</p>
+<p align='center'>
+<h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
+</p>
 
+<hr>
 <br/>
 </p>
 
