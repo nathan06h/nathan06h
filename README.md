@@ -15,6 +15,7 @@
 
 - 🌱 I’m currently learning **CEH and CHFI** 
 - ⚡ I'm looking for a job as a Front-End in Tokyo 
+<hr></hr>
 ## 📫 How to reach me:
 
 <p align="center">
