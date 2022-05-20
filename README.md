@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 
 - ⚡ 
 -->
+<img width="100%" height="auto" src="https://camo.githubusercontent.com/f6decabc6a509fd6d5d8a1053fedc3ad96458e223c6a9f8f312d125b6e833c7b/68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67" data-canonical-src="https://i.imgur.com/iXuL1HG.png" style="max-width: 100%;">
 <h1 align="center">Hi, I'm Thanh</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A front-end developer from Vietnam </h3>
