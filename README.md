@@ -141,7 +141,6 @@
 <hr></hr>
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan06h&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
 <br>
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nathan06h&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
