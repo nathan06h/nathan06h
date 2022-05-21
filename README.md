@@ -7,7 +7,7 @@
 </span>
 <h1 align="center"> I'm Thanh</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A front-end developer from Vietnam </h3>
+<h3 align="center">A frontend developer from Vietnam </h3>
 
 - ✍ I'm a student of: [第一工業大学上野キャンパス Daiichi Institute of Technology](https://ueno.daiichi-koudai.ac.jp/) (DIT).
 
