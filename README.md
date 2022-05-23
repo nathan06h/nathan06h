@@ -17,7 +17,7 @@
 ## 📫 How to reach me:
 
 <p align="center">
-  <a href="https://discord.gg/M67td9Mc" alt="Discord">
+  <a href="https://discord.gg/EtwUwpAw" alt="Discord">
     <img src="https://img.icons8.com/bubbles/50/000000/discord.png"/>
   </a> 
   <a href="mailto:20te441@ditu.jp" alt="Email">
