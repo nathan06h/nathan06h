@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://discord.gg/M67td9Mc" alt="Discord">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+    <img src="https://img.icons8.com/bubbles/50/000000/discord.png"/>
   </a> 
   <a href="https://github.com/nathan06h" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
