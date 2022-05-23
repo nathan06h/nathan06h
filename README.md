@@ -17,7 +17,7 @@
 ## 📫 How to reach me:
 
 <p align="center">
-  <a href="https://www.facebook.com/noonesaveme99" alt="Facebook">
+  <a href="https://discord.gg/M67td9Mc" alt="Discord">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://github.com/nathan06h" alt="Github">
