@@ -20,9 +20,6 @@
   <a href="https://discord.gg/M67td9Mc" alt="Discord">
     <img src="https://img.icons8.com/bubbles/50/000000/discord.png"/>
   </a> 
-  <a href="https://github.com/nathan06h" alt="Github">
-    <<img src="https://img.icons8.com/doodle/48/000000/github--v1.png"/>
-  </a> 
   <a href="mailto:20te441@ditu.jp" alt="Email">
     <img src="https://img.icons8.com/bubbles/50/000000/apple-mail.png"/>
   </a>
