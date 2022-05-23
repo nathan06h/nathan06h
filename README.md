@@ -24,7 +24,7 @@
     <img src="https://img.icons8.com/bubbles/50/000000/apple-mail.png"/>
   </a>
   <a href="https://ask.fm/slowmoris7" alt="AskFm">
-    <img src="https://img.icons8.com/stickers/100/000000/why-us-female.png"/>
+    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-ask-investing-flaticons-lineal-color-flat-icons-3.png"/>
 </p>
 <hr></hr>
 ## 🛠️ My Skills
