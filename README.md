@@ -21,11 +21,13 @@
     <img src="https://img.icons8.com/bubbles/50/000000/discord.png"/>
   </a> 
   <a href="https://github.com/nathan06h" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+    <img src="https://img.icons8.com/plasticine/100/000000/github-squared.png"/>
   </a> 
   <a href="mailto:20te441@ditu.jp" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+    <img src="https://img.icons8.com/bubbles/50/000000/apple-mail.png"/>
   </a>
+  <a href="https://ask.fm/slowmoris7" alt="AskFm">
+    <img src="https://img.icons8.com/stickers/100/000000/why-us-female.png"/>
 </p>
 <hr></hr>
 ## 🛠️ My Skills
