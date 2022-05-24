@@ -11,8 +11,9 @@
 
 - ✍ I'm a student of: [第一工業大学上野キャンパス Daiichi Institute of Technology](https://ueno.daiichi-koudai.ac.jp/) (DIT).
 
-- 🌱 I’m currently learning **CEH and CHFI** 
+- 🌱 I’m currently learning **CEH-CHFI** 
 - ⚡ I'm looking for a job as a Front-End in Tokyo 
+- 👉 I'm a member of EW-Russia  
 <hr></hr>
 ## 📫 How to reach me:
 
