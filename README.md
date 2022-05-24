@@ -5,7 +5,7 @@
 -->
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 </span>
-<h1 align="center"> I'm Thanh</h1>
+<h1 align="center"> I'm Nguyen An Thanh</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A frontend developer from Vietnam </h3>
 
