@@ -141,17 +141,6 @@
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   &emsp;
-</p>
-<hr></hr>
-<h2 align="center"><u>My Github Stats</u></h2>
-<p align="center">
-<br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nathan06h&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
-<br>
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathan06h&theme=holi-theme">
-</p>
 
 <table style="width:100%;">
   <tr>
