@@ -13,11 +13,12 @@
 
 - 🌱 I’m currently learning **CEH-CHFI** 
 - ⚡ I'm looking for a job as a Front-End in Tokyo 
-- 👉 I'm a member of EW-Russia  
 <hr></hr>
 ## 📫 How to reach me:
 
 <p align="center">
+   <a href="https://www.facebook.com/noonesaveme99" alt="Facebook">
+     <img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"/>
   <a href="https://discord.gg/EtwUwpAw" alt="Discord">
     <img src="https://img.icons8.com/bubbles/50/000000/discord.png"/>
   </a> 
@@ -30,6 +31,8 @@
       href="https://www.youtube.com/watch?v=DcCISK3sCYg" alt="Youtube">
      <img <img src="https://img.icons8.com/doodle/48/000000/youtube-play--v1.png"/>
    </a>
+   
+      
 </p>
 <hr></hr>
 ## 🛠️ My Skills
