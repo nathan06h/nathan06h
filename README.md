@@ -25,8 +25,6 @@
   <a href="mailto:20te441@ditu.jp" alt="Email">
     <img src="https://img.icons8.com/bubbles/50/000000/apple-mail.png"/>
   </a>
-  <a href="https://ask.fm/slowmoris7" alt="AskFm">
-    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-ask-investing-flaticons-lineal-color-flat-icons-3.png"/>
    <a 
       href="https://www.youtube.com/watch?v=DcCISK3sCYg" alt="Youtube">
      <img <img src="https://img.icons8.com/doodle/48/000000/youtube-play--v1.png"/>
