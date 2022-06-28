@@ -24,13 +24,7 @@
   </a> 
   <a href="mailto:20te441@ditu.jp" alt="Email">
     <img src="https://img.icons8.com/bubbles/50/000000/apple-mail.png"/>
-  </a>
-   <a 
-      href="https://www.youtube.com/watch?v=DcCISK3sCYg" alt="Youtube">
-     <img <img src="https://img.icons8.com/doodle/48/000000/youtube-play--v1.png"/>
-   </a>
-   
-      
+  </a>     
 </p>
 <hr></hr>
 ## 🛠️ My Skills
