@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **nathan06h/nathan06h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,15 +6,13 @@
 </span>
 <h1 align="center"> I'm Nguyen An Thanh</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A frontend developer from Vietnam </h3>
 
 - ✍ I'm a student of: [第一工業大学上野キャンパス Daiichi Institute of Technology](https://ueno.daiichi-koudai.ac.jp/) (DIT).
-
 - 🌱 I’m currently learning **CEH-CHFI** 
 - ⚡ I'm looking for a job as a Front-End in Tokyo 
-<hr></hr>
-## 📫 How to reach me:
 
+
+## 📫Reach me:
 <p align="center">
    <a href="https://www.facebook.com/ChuyencuaHaNoi" alt="Facebook">
      <img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"/>
@@ -26,8 +23,6 @@
     <img src="https://img.icons8.com/bubbles/50/000000/apple-mail.png"/>
   </a>     
 </p>
-<hr></hr>
-## 🛠️ My Skills
 
 ### 👉 Programming languages
 
@@ -145,9 +140,6 @@
     </td>
   </tr>
 </table>
-<p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/nathan06h/count.svg" />
