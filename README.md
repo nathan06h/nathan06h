@@ -1,9 +1,5 @@
-
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-# Hello there 👋
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nathan06h)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Open Source Love])](https://github.com/ellerbrock/open-source-badge/)
 
 
 ```python
