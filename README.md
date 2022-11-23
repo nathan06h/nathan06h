@@ -8,8 +8,10 @@
 class infome:
     def __init__(self):
         self.name = "NGUYEN AN THANH"
-        self.role = "Web-develope"
-        self.language_spoken = ["jp_JP", "en_US"]
+        self.age = "24"
+        self.school = "第一工業大学 東京上野キャンパス"
+        self.role = "Web-develop"
+        self.language_spoken = ["ja_JP", "en_US"]
     def say_hi(self):
         print("Chao may cung den voi profile cua mi nha")
 me = infome()
@@ -33,10 +35,10 @@ me.say_hi()
 
 <!-- ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/nathan06h/nathan06h">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan06h&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan06h&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="nathan06h's GitHub Stats" />
 </a>
 <a href="https://github.com/nathan06h/nathan06h">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nathan06h&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nathan06h&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="nathan06h's GitHub Stats" />
 </a> -->
 
 
