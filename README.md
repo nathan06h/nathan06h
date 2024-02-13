@@ -7,13 +7,13 @@
 # -*- coding: utf-8 -*-
 class infome:
     def __init__(self):
-        self.name = "NGUYEN AN THANH"
+        self.name = "NGUYEN VAN THANH"
         self.age = "24"
         self.school = "第一工業大学 東京上野キャンパス"
         self.role = "Web-develop"
         self.language_spoken = ["ja_JP", "en_US"]
     def say_hi(self):
-        print("Chao may cung den voi profile cua mi nha")
+        print("こんにちは！！")
 me = infome()
 me.say_hi()
 ```
