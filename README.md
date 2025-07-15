@@ -9,8 +9,6 @@
   </a>
 </p>
 
-<br />
-
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTF0eTd2a2hqYXBna3FiZnR1Mjg5YmJwYzk3MWR0amR2MmppZDZtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ttknk7M3d3UBEeZsii/giphy.gif" width="300"/>
 
 ## 💫 私について
