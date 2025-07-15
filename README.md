@@ -44,7 +44,7 @@
 
 ### DEVの環境
 <p>
-  <code><img height="30" src="https://img.icons8.com/ios-filled/50/visual-studio-code-2019.png"></code> VSCode
+  <code><img height="30" src="https://img.icons8.com/material-two-tone/24/visual-studio-code-2019.png"></code> VSCode
   <code><img height="30" src="https://img.icons8.com/ios-filled/50/xcode.png"></code> Xcode
   <code><img height="30" src="https://img.icons8.com/ios-filled/50/microsoft-copilot.png"></code> Copilot
 </p>
