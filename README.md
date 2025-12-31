@@ -1,59 +1,35 @@
-# ようこそ<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/04076406-d6ae-4ad0-a587-2c63921f9c25" />
+### Hi I'm Thanh 👋
 
-<p align="center">
-  <a href="https://www.facebook.com/noonesaveme99/">
-    <img alt="my facebook" width="30px" src="https://img.icons8.com/bubbles/100/facebook-new.png"/>
-  </a>
-  <a href="https://substack.com/@concholongxu?utm_source=user-menu">
-    <img alt="my substack" width="30px" src="https://img.icons8.com/bubbles/100/minus-math.png"/>
-  </a>
-</p>
+A software engineer based in Japan.
 
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTF0eTd2a2hqYXBna3FiZnR1Mjg5YmJwYzk3MWR0amR2MmppZDZtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ttknk7M3d3UBEeZsii/giphy.gif" width="300"/>
+## 🔭 Tech stack
 
-## 💫 私について
+![Tech stack](https://skillicons.dev/icons?i=python,js,ts,tailwind,c,vitest,vue,java,nuxt)
 
-- 👨🏽‍💻 **学歴**: 2020年に浦和国際日本語学校、2024年に第一工業大学情報システム学科卒業
-- 🌱 **現在**: フロントエンドのフリーランスとして活動中
-- 💬 **質問**: 気軽にどうぞ！
-- 📫 **連絡先**: [20te441@ditu.jp](mailto:20te441@ditu.jp)
+### 🛠 Tools I use
 
-## 🛠️ 言語とツール
+![Tools I use](https://skillicons.dev/icons?i=vim,vscode,pnpm,vite,vercel,git,github,postman,discord)
 
-### プログラム言語
-<p>
-  <code><img height="30" src="https://img.icons8.com/ios-filled/50/javascript.png"></code> JavaScript
-  <code><img height="30" src="https://img.icons8.com/ios-filled/50/python.png"></code> Python
-</p>
+### ⏲️ This week I spent time on...
 
-### フロントエンドとバックエンド
-<p>
-  <code><img height="30" src="https://img.icons8.com/ios-filled/50/react-native.png"></code> React.js
-  <code><img height="30" src="https://img.icons8.com/small/16/nodejs.png"></code> Node.js
-</p>
+<!--START_SECTION-->
 
-### データベースとツール
-<p>
-  <code><img height="30" src="https://img.icons8.com/ios-filled/50/sql.png"></code> MySQL
-  <code><img height="30" src="https://img.icons8.com/ios-filled/50/github.png"></code> GitHub
-  <code><img height="30" src="https://img.icons8.com/ios-filled/50/microsoft-copilot.png"></code> Copilot
-</p>
+```txt
+Total Time: 26 hrs 41 mins
 
-### DEVの環境
-<p>
-  <code><img height="30" src="https://img.icons8.com/material-two-tone/24/visual-studio-code-2019.png"></code> VSCode
-  <code><img height="30" src="https://img.icons8.com/ios-filled/50/xcode.png"></code> Xcode
-</p>
+Python       22 hrs 3 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀   82,6 %
+JSON         2 hrs 20 mins   ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   8,7 %
+Vue.js       1 hr 17 mins    ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   4,8 %
+Other        39 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2,4 %
+JavaScript   32 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2,0 %
+```
 
-## 📊 GitHub 統計
+<!--END_SECTION:waka-->
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nathan06h&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="nathan06h's github stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathan06h&count_private=true&theme=radical" alt="nathan06h github-readme-streak-stats" width="48%"/>
-</div>
+### 🚀 Contribution
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan06h&count_private=true&theme=radical&layout=compact" alt="nathan06h-language" width="50%"/>
-</div>
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jackcodetw/jackcodetw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jackcodetw/jackcodetw/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jackcodetw/jackcodetw/output/github-contribution-grid-snake.svg">
+</picture>
