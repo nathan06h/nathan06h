@@ -1,7 +1,5 @@
 ### Hi I'm Thanh 👋
 
-A software engineer based in Japan.
-
 ## 🔭 Tech stack
 
 ![Tech stack](https://skillicons.dev/icons?i=python,js,ts,tailwind,c,vitest,vue,java,nuxt)
